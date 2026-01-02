@@ -1,0 +1,1 @@
+const util_c6ro = (d: any) => d;
